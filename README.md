@@ -1,7 +1,7 @@
 # bankhog
 proof of concept CLI banking system.
 
-the users and balances must be created beforehand
+the users must be created beforehand , balance files are instead created by the program after you check one's balance.
 
 data path for user profiles is %appdata%/myprogram/files/users
 
