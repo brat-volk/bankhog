@@ -94,7 +94,13 @@ int balvalue;
     }
 
 //account deletion
-accdelete:
-    cout << "accdelete works" << endl;
-    system("pause");
+   string deluser;
+   deluser = appdata;
+   deluser +=  "\\myprogram\\users\\" + id + ext;
+   remove(deluser.c_str());
+   remove(pathbal.c_str());
+   remove(sidpath.c_str());
+   cout << "account deleted succesfully" << endl;
+   cout << system("pause");
+   exit ( 4 );
 }
