@@ -7,17 +7,17 @@ data path for user profiles is %appdata%/myprogram/files/users
 
 example user file:
 
---------username.txt---------
+#######username.txt#####
 
 password                    
 
-#######################
+########################
 
 each user's balance is handled the same way in %appdata%/myprogram/files/users/balance
 
 example:
 
---------username.txt---------
+#######username.txt#########
 
 balance(must be integer)    
 
