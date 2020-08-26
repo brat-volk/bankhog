@@ -1,4 +1,4 @@
-// gotta love the homies at cplusplus.com for the sourcecode : http://www.cplusplus.com/forum/general/74374/
+
 #include <cstdlib>
 #include <vector>
 #include <iostream>
