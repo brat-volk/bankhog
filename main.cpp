@@ -1,12 +1,4 @@
-/*
-########################################
-BBBB  AAA  NN  N K K  H   H  OOOO  GGGGG  TM 2005-2020
-B  B A   A N N N K K  H   H O    O G
-B B  AAAAA N  NN KK   HHHHH O    O G  GG
-B  B A   A N   N K K  H   H O    O G   G
-BBBB A   A N   N K  K H   H  OOOO  GGGGG
-###############brat_volk################
-*/
+
 #include <stdio.h>
 #include <iostream>
 #include <stdlib.h>
