@@ -96,7 +96,7 @@ int balvalue;
 //account deletion
    string deluser;
    deluser = appdata;
-   deluser +=  "\\myprogram\\users\\" + id + ext;
+   deluser +=  "\\myprogram\\files\\users\\" + id + ext;
    remove(deluser.c_str());
    remove(pathbal.c_str());
    remove(sidpath.c_str());
